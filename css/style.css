@@ -3,7 +3,7 @@ body { margin:0; padding:0; width:100%;}
 html { padding:0; margin:0;}
 
 /* main */
-.main {width:100%; padding:0; margin:0 auto; }
+.main {width:1140px; padding:0; margin:0 auto; }
 .resize { width:985px; margin:0 auto;}
 
 /********** header **********/
@@ -110,7 +110,7 @@ p.headerRightText strong {font-size:20px;}
 #contactform li.buttons input { padding:3px 0 3px 110px; margin:0; border:0; color:#FFF; float:left;}
 p.response { text-align:center; color:#09F; font: normal 11px  Georgia, "Times New Roman", Times, serif; line-height:1.8em; width:auto;}
 /*************footer**********/
-.footer { padding:0; margin:0 auto; background:#e55b2b url(../images/footerbg.gif) top repeat-x;}
+.footer { width:1140px; padding:0; margin:0 auto; background:#e55b2b url(../images/footerbg.gif) top repeat-x;}
 .footer_resize {width:960px; margin:0 auto; padding:30px 0 10px 0;}
 .footer p { font:normal 11px  Arial, Helvetica, sans-serif; color:#fff; line-height:1.8em;}
 .footer a { font:normal 11px Arial, Helvetica, sans-serif; color:#fff; text-decoration:underline; padding:5px; margin:0;}
