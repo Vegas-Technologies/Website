@@ -22,6 +22,13 @@ html { padding:0; margin:0;}
 	margin:10px 0 0 0;
 	width:15%;
 }
+/* Mike's Additions */
+.backdrop {float:right; width:40%;}
+
+h3 {font-size:24px; color:green; margin:9px 0 10px 0; text-align: center;}
+
+p.headerRightText {text-align:center; display: inline-block; width:100%; margin:0; color:white; font-size: 12px; padding-bottom: 5px;}
+p.headerRightText strong {font-size:20px;}
 /* search */
 .search { padding:30px 20px 0 0; margin:0; float:right; width:440px;}
 .search form { display:block; float:right; padding:5px 0;}
@@ -72,7 +79,7 @@ html { padding:0; margin:0;}
 .top_sup_resize .blogga2 { width:230px; float:left; margin:0 2px; padding:2px;}
 /********** block index **********/
 .body { background: #fff; border-top:1px solid #e1e1e1;  }
-.body_resize { width:960px; margin:0 auto; padding:0;}
+.body_resize { width:1140px; margin:0 auto; padding:0;}
 .body h2 { font:normal 18px Arial, Helvetica, sans-serif; color:#2a2a2a; padding:15px 5px; margin:0;}
 .body p {
 	font: normal 12px Arial, Helvetica, sans-serif;
@@ -88,6 +95,7 @@ html { padding:0; margin:0;}
 .body img.floated { float:right; margin:5px 10px; padding:0;}
 .left { width:589px; float:left; margin:0; padding:0 20px; border-right:1px solid #f2f2f2;}
 .left .serv { width:265px; float:left; margin:0; padding:5px 10px;}
+.serv { width:265px; float:left; margin:0; padding:5px 10px;}
 .right  { width:290px; float:right; margin:0; padding:0 20px;}
 /********** contact form **********/
 #contactform { margin:0; padding:5px 10px;}
